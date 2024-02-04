@@ -63,4 +63,13 @@ body {
   background-color: rgba(255, 255, 255, 0.8274509804);
   color: rgba(0, 0, 0, 0.2823529412);
   font-weight: 600;
+}
+.wrapper .author {
+  z-index: 2;
+  position: sticky;
+  position: absolute;
+  bottom: 10px;
+  text-transform: capitalize;
+  color: #c2c2c2;
+  text-shadow: 2px 3px 5px rgba(0, 0, 0, 0.5);
 }/*# sourceMappingURL=styles.css.map */
